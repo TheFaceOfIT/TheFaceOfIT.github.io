@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://TheFaceOfIT.github.io
+title: The Face Of IT
+subtitle: Making IT about People, One person at a time
+author: Devlin Liles
 simple_search: http://google.com/search
 description:
 
