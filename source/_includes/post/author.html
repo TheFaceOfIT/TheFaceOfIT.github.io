@@ -6,3 +6,4 @@
   {% assign author = site.author %}
 {% endif %}
 {% if author %}<span class="byline author vcard">Posted by <span class="fn">{{ author }}</span></span>{% endif %}
+{% if author %}<div class="author-photo {{ author | downcase | replace:' ','-' }}"></div>{% endif %}
