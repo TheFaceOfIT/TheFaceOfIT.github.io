@@ -1,16 +1,17 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
-.author-photo {
+.author-photo:before {
     height: auto;
     width: auto;
     float: left;
     box-shadow: 10px 10px 0px 0px #aaaaaa;
     margin: 20px 20px 0px 0px;
+    content: url('/author_photos/unknown.png');
 }
-.author-photo.devlin-liles {
+.author-photo.devlin-liles:before {
     content: url('/author_photos/devlin-liles.png');
 }
-.author-photo.tim-raybrun {
+.author-photo.tim-rayburn:before {
     content: url('/author_photos/tim-rayburn.png');
 }
