@@ -3,7 +3,7 @@ layout: post
 title: "The Face of IT today"
 date: 2013-07-09 20:51
 comments: true
-categories: Quality Purpose 
+categories: Quality Purpose Revenue Rapid
 alias: [ /purpose/index.html ]
 ---
 
