@@ -7,13 +7,15 @@ categories: Quality Purpose Revenue Rapid
 alias: [ /purpose/index.html ]
 ---
 
+This site is dedicated to resolving some of the core questions surrounding the purpose, usage, and view of IT in the business space today. Questions like...
+
 Are you in IT and struggle with the concern that business cares more about quantity than quality when it comes to your work?
 
 Are you in business, and struggle to understand what quality is, and how it effects your costs?
 
 These are questions that as an industry we've struggled needlessly with for decades, because the real question is : **How can rapid, high quality IT effect our ability to generate revenue?**
 
-Answering this question, is small pragmatic steps is how we are going to change **the face of IT**.
+Answering this question with small pragmatic steps is how we are going to change **the face of IT**.
 
 
 <!-- More -->
@@ -24,18 +26,18 @@ Answering this question, is small pragmatic steps is how we are going to change 
 
 Revenue is what drives every business, and IT cannot be ignorant of that.  IT needs to adjust its focus to think of every activity in the light of revenue generation, not revenue neutrality or cost basis.
 
-To many times, IT is handled as a cost.  How can we cut costs, cut schedule, cut features to effect our bottom line.  Changing our approach to technology however ... Think of the technology approaches from companies like Instagram, where technology changed how we approach an everyday problem and in under a year created a billion dollar company.  Applied to established industries like Education, Oil & Gas, Insurance, Government, Finance or any other area, how could these approaches revolutionize our businesses and our world.
+To many times, IT is handled as a cost.  How can we cut costs, cut schedule, cut features to effect our bottom line.  Think of changing our approach to one like Instagram, where technology changed how we deal with an everyday problem and in under a year created a billion dollar company.  Applied to established industries like Education, Oil & Gas, Insurance, Government, Finance or any many others, how could these approaches revolutionize our businesses and our world.
 
-Here we will present approaches, and guidance, to leverage IT as a fundamental component of your business that will revolutionize your revenue.
+Here we will present approaches, and guidance, to leverage IT as a fundamental component of your business that will revolutionize your revenue. This guidance is not targeted only toward the technical IT member, or the Business side IT member, but toward everyone involved with developing software solutions to business problems.
 
 <a href="#rapid"></a>
 ## Rapid
 
-Short definition of rapid... working software in under 30 days.
+When we say Rapid Development, we are talking about one simple idea - working software in under 30 days.
 
-Over the last 20 years, we have watched as manufacturing has been revolutionized, where products can be envisioned, prototyped, and manufactured in amazingly short cycles, and we are even now on the cusp or removing manufacturing all together, by democratizing this with technologies like 3D printing.  Software, meanwhile is written nearly the same way it was by the earliest pioneers of business software.  We need to change our mentality from that of large, enterprise software solutions, to small fit to purpose tools that rapidly answer current business needs.
+Over the last 20 years, we have watched as manufacturing has been revolutionized, where products can be envisioned, prototyped, and manufactured in amazingly short cycles, and we are even now on the cusp or removing manufacturing all together, by democratizing this with technologies like 3-D printing.  Software, meanwhile is written nearly the same way it was by the earliest pioneers of business software.  We need to change our mentality from that of large, enterprise software solutions, to small fit to purpose tools that rapidly answer current business needs.
 
-If I was to ask you, what your current timeline to production was, what would you say?  A year?  A month?  With the right approaches, it is easy to quickly deliver complete software in just 30 days.
+If I were to ask what your current time line to production is, what would you say?  A year?  A month?  With the right approaches, it is easy to quickly deliver complete software in just 30 days.
 
 <a href="#quality"></a>
 ## Overall Quality
